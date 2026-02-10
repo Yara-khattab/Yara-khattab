@@ -1,12 +1,10 @@
-<h1 align="center"># Hi, I'm Yara Khattab <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="30px"></h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Student | Frontend Developer | Competitive Programmer
-</h3>
+# Hi, I'm Yara Khattab <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="30px">
 
-<p align="center">
-  Building elegant web interfaces and solving complex problems
-</p>
+### Computer Science Student | Frontend Developer | Competitive Programmer
+
+</div>
 
 <hr style="border:0; height:1px; background:#e1e4e8;">
 
