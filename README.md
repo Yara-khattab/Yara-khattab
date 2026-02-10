@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yara Khattab 👋</h1>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=500&color=5A2D82&width=700&lines=Computer+Science+Student%0AFrontend+Developer%0ACompetitive+Programmer)
+
 ## About Me
 - 🎓 Major: Computer Science  
 - 🏫 Faculty: Faculty of Computers & Artificial Intelligence  
