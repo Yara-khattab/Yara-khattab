@@ -1,7 +1,10 @@
-<h1 align="center">Hi, I'm Yara Khattab 👋</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=0000FF&width=500&lines=Computer+Science+Student;Frontend+Developer;Competitive+Programmer&loop=true" />
+
+# Hi, I'm Yara Khattab <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="30px">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=450&lines=Computer+Science+Student;Frontend+Developer;Competitive+Programmer" />
+
+
 </div>
 
 ## About Me
