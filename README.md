@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Hi, I'm Yara Khattab 👋</h2>
+<h1>Hi, I'm Yara Khattab 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=450&lines=Computer+Science+Student;Frontend+Developer;Competitive+Programmer" />
 
