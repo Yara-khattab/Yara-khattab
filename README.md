@@ -15,10 +15,10 @@ Computer Science Student | Frontend Developer | Competitive Programmer
 
 ## 🌐 Find Me Online
 <p align="center">
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:khatttabyara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/yara-khatttab-8a415a33b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -59,10 +59,10 @@ Computer Science Student | Frontend Developer | Competitive Programmer
 
 ## 💻 Competitive Coding Profiles
 <p align="center">
-  <a href="https://codeforces.com/profile/your-handle">
+  <a href="https://codeforces.com/profile/Yarakhattab4">
     <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/your-handle">
+  <a href="https://leetcode.com/u/Yara-khattab/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
