@@ -1,8 +1,8 @@
 <div align="center">
  <h1>Hi, I'm Yara Khattab 👋</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=450&lines=Computer+Science+Student;Frontend+Developer;Competitive+Programmer" />
-<br>
 </div>
+<br>
  <p align="center">
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=khatttabyara@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
