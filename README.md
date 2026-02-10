@@ -3,7 +3,7 @@
 <h1>Hi, I'm Yara Khattab 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=450&lines=Computer+Science+Student;Frontend+Developer;Competitive+Programmer" />
-
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" width="300"/>
 
 </div>
 
