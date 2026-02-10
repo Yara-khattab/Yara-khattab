@@ -18,9 +18,10 @@
   
 ##  About Me
 - 🎓 Major: Computer Science  
-- 🏫 Faculty: Faculty of Computers & Artificial Intelligence  
-- 💻 Learning: Completed the Frontend Track at SEF Academy and currently focusing on modern frontend frameworks
-- 🧠 Competitive Programmer & Problem Solver
+- 🏫 Faculty:Computers & Artificial Intelligence  
+- 💻 Learning: SEF Academy Frontend Track completed; learning modern frameworks  
+- 🎯 Focus: Competitive programming & problem solving
+
 
 <hr style="border:0; height:1px; background:#e1e4e8;">
 
