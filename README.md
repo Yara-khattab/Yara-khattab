@@ -15,6 +15,7 @@
   </a>
 </p>
   <hr style="border:0; height:1px; background:#e1e4e8;">
+  
 ##  About Me
 - 🎓 Major: Computer Science  
 - 🏫 Faculty: Faculty of Computers & Artificial Intelligence  
