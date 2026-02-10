@@ -61,4 +61,5 @@
 <hr style="border:0; height:1px; background:#e1e4e8;">
 
 ## 🎯 Quick Peek
-I’m always curious, always coding. Whether it’s building sleek web interfaces or solving tricky algorithms, I enjoy creating solutions that are both functional and elegant. Let’s build something amazing together! 🚀
+Deeply interested in problem solving and frontend development—combining algorithmic thinking with clean, responsive web design to build practical and elegant solutions.
+
