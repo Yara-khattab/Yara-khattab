@@ -1,13 +1,6 @@
-<table>
-  <tr>
-    <td width="60%">
-      <h1>Hi, I'm Yara Khattab <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="30px"></h1>
-    </td>
-    <td width="40%">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-project-illustration-download-in-svg-png-gif-file-formats--web-development-programming-pack-network-communication-illustrations-5381180.png">
-    </td>
-  </tr>
-</table>
+<p align="centre">
+# Hi, I'm Yara Khattab 👋
+</p>
 
 <hr style="border:0; height:1px; background:#e1e4e8;">
 
