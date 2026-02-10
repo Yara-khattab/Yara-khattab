@@ -2,11 +2,7 @@
 
 # Hi, I'm Yara Khattab ![wave](https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif)
 
-
 </div>
-
-
-<hr style="border:0; height:1px; background:#e1e4e8;">
 
 ## About Me
 - 🎓 Major: Computer Science  
