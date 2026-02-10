@@ -1,6 +1,4 @@
-<p align="centre">
-# Hi, I'm Yara Khattab 👋
-</p>
+<h1 align="center">Hi, I'm Yara Khattab 👋</h1>
 
 <hr style="border:0; height:1px; background:#e1e4e8;">
 
