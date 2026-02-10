@@ -15,9 +15,10 @@ Computer Science Student | Frontend Developer | Competitive Programmer
 
 ## 🌐 Find Me Online
 <p align="center">
-  <a href="mailto:khatttabyara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=khatttabyara@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
   <a href="https://www.linkedin.com/in/yara-khatttab-8a415a33b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
