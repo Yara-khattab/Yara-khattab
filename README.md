@@ -5,6 +5,18 @@
 <br>
 </div>
 
+<p align="center">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=khatttabyara@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://discord.com/users/1289488581198348290" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+  <a href="https://www.linkedin.com/in/yara-khatttab-8a415a33b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+  <hr style="border:0; height:1px; background:#e1e4e8;">
 ## About Me
 - 🎓 Major: Computer Science  
 - 🏫 Faculty: Faculty of Computers & Artificial Intelligence  
@@ -48,17 +60,6 @@
 </p>
 
 <hr style="border:0; height:1px; background:#e1e4e8;">
-
-## 🌐 Find Me Online
-<p align="center">
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=khatttabyara@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-  <a href="https://www.linkedin.com/in/yara-khatttab-8a415a33b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 <hr style="border:0; height:1px; background:#e1e4e8;">
 ## 🎯 Quick Peek
