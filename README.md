@@ -1,4 +1,4 @@
-<h1 align="center">Yara Khattab</h1>
+<h1 align="center"># Hi, I'm Yara Khattab <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="30px"></h1>
 
 <h3 align="center">
 Computer Science Student | Frontend Developer | Competitive Programmer
