@@ -5,13 +5,10 @@ Computer Science Student | Frontend Developer | Competitive Programmer
 </h3>
 
 <p align="center">
-  <em>
-    Coding with style ✨<br>
-    Crafting interactive, responsive, and user-friendly web applications while sharpening my skills in competitive programming. Passionate about clean code, problem-solving, and continuously exploring new technologies to bring ideas to life.
-  </em>
+  Building elegant web interfaces and solving complex problems
 </p>
 
----
+<hr style="border:0; height:1px; background:#e1e4e8;">
 
 ## 🌐 Find Me Online
 <p align="center">
@@ -24,7 +21,7 @@ Computer Science Student | Frontend Developer | Competitive Programmer
   </a>
 </p>
 
----
+<hr style="border:0; height:1px; background:#e1e4e8;">
 
 ## About Me
 - 🎓 Major: Computer Science  
@@ -33,7 +30,7 @@ Computer Science Student | Frontend Developer | Competitive Programmer
 - 🌱 Passionate about building interactive, responsive, and user-friendly web apps  
 - 🧠 Competitive Programmer & Problem Solver
 
----
+<hr style="border:0; height:1px; background:#e1e4e8;">
 
 ## 🧰 Toolkit
 
@@ -56,7 +53,7 @@ Computer Science Student | Frontend Developer | Competitive Programmer
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
----
+<hr style="border:0; height:1px; background:#e1e4e8;">
 
 ## 💻 Competitive Coding Profiles
 <p align="center">
@@ -68,7 +65,7 @@ Computer Science Student | Frontend Developer | Competitive Programmer
   </a>
 </p>
 
----
+<hr style="border:0; height:1px; background:#e1e4e8;">
 
 ## 🎯 Quick Peek
 I’m always curious, always coding. Whether it’s building sleek web interfaces or solving tricky algorithms, I enjoy creating solutions that are both functional and elegant. Let’s build something amazing together! 🚀
