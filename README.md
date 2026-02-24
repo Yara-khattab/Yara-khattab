@@ -21,6 +21,7 @@
 - 🏫 Faculty: Computers & Artificial Intelligence  
 - 💻 Learning: SEF Academy Frontend Track (Completed); learning modern frameworks  
 - 🎯 Focus: Competitive Programming, Problem Solving & Frontend Development
+- 💡 Interests: Artificial Intelligence, Algorithms & Building Web Applications
 
 
 <hr style="border:0; height:1px; background:#e1e4e8;">
