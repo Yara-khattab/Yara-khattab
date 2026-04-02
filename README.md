@@ -1,30 +1,32 @@
 <div align="center">
  <h1>Hi, I'm Yara Khattab 👋</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=0000FF&center=true&vCenter=true&width=450&lines=Computer+Science+Student;Frontend+Developer;Competitive+Programmer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=0000FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Developer;Competitive+Programmer" />
 </div>
 <br>
- <p align="center">
+
+<p align="center">
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=khatttabyara@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://discord.com/users/1289488581198348290" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-  <a href="https://www.linkedin.com/in/yara-khatttab-8a415a33b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://www.linkedin.com/in/yara-khatttab-8a415a33b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-  <hr style="border:0; height:1px; background:#e1e4e8;">
-  
+
+<hr>
+
 ##  About Me
 - 🎓 Major: Computer Science  
 - 🏫 Faculty: Computers & Artificial Intelligence  
-- 💻 Learning: SEF Academy Frontend Track (Completed); learning modern frameworks  
-- 🎯 Focus: Competitive Programming, Problem Solving & Frontend Development
-- 💡 Interests: Artificial Intelligence, Algorithms & Building Web Applications
+- 💻 Frontend Track: Completed (SEF Academy)  
+- 🚀 Currently Learning: Backend Development & becoming a Full Stack Developer  
+- 🎯 Focus: Competitive Programming, Problem Solving & Full Stack Development  
+- 💡 Interests: Artificial Intelligence, Algorithms & Building Web Applications  
 
-
-<hr style="border:0; height:1px; background:#e1e4e8;">
+<hr>
 
 ## 🧰 Toolkit
 
@@ -41,6 +43,13 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
+### Currently Exploring (Backend)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databases-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
+
 ### Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -49,7 +58,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-<hr style="border:0; height:1px; background:#e1e4e8;">
+<hr>
 
 ## 💻 Competitive Coding Profiles
 <p align="center">
@@ -61,8 +70,7 @@
   </a>
 </p>
 
-<hr style="border:0; height:1px; background:#e1e4e8;">
+<hr>
 
 ## 🎯 Quick Peek
-Deeply interested in problem solving and frontend development—combining algorithmic thinking with clean, responsive web design to build practical and elegant solutions.
-
+Passionate about becoming a Full Stack Developer—combining strong problem-solving skills with modern frontend and backend technologies to build scalable and elegant web applications.
