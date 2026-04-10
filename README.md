@@ -11,7 +11,7 @@
 <a href="https://discord.com/users/1289488581198348290" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-  <a href="https://www.linkedin.com/in/yara-khatttab-8a415a33b">
+  <a href="https://www.linkedin.com/in/yara-khattab-8a415a33b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
