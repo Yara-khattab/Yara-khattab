@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hi, I'm Yara Khattab 👋</h1>
+ <h1>Hi, I'm Yara Abdulkarim Khattab 👋</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=0000FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Developer;Competitive+Programmer" />
 </div>
 <br>
