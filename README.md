@@ -66,6 +66,7 @@
 </p>
 
 <hr>
+## 📊 GitHub Stats 📊
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yara-khattab&theme=github-dark-blue&border_radius=5&mode=weekly" />
