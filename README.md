@@ -68,7 +68,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yara-khattab&theme=dark&border_radius=5&mode=weekly" />
+  <img src="https://streak-stats.demolab.com?user=yara-khattab&theme=github-dark-blue&border_radius=5&mode=weekly" />
 </p>
 
 <hr>
