@@ -69,7 +69,7 @@
 
 ## GitHub Analytic 📈 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yara-khattab&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=github-dark-blue)](https://git.io/streak-stats)
 
 <hr>
 
