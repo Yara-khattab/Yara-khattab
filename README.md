@@ -67,5 +67,7 @@
 
 <hr>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=yara-khattab&theme=dark)](https://git.io/streak-stats)
+
 ## 🎯 Quick Peek   
 Passionate about problem solving and frontend development—building clean, responsive web applications using strong algorithmic thinking, and currently advancing into backend development to become a well-rounded Full Stack Developer.
