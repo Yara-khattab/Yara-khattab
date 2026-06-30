@@ -67,7 +67,9 @@
 
 <hr>
 
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=yara-khattab&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)</div>
+<div align="center">
+ [![GitHub Streak](https://streak-stats.demolab.com?user=yara-khattab&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+</div>
 
 <hr>
 
