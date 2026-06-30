@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=yara-khattab&theme=github-dark-blue" />
+    <img src="https://streak-stats.demolab.com?user=yara-khattab&theme=github-dark-blue&cache_seconds=1800" />
   </a>
 </p>
 
