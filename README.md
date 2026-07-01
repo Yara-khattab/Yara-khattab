@@ -67,11 +67,11 @@
 
 <hr>
 
-## GitHub Analytic 📈 
+## 📈 GitHub Analytic 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=yara-khattab&theme=github-dark-blue&cache_seconds=1800" />
+    <img src="https://streak-stats.demolab.com?user=yara-khattab&theme=github-dark-blue&cache_seconds=600" />
   </a>
 </p>
 
