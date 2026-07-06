@@ -19,12 +19,13 @@
 <hr>
 
 ##  About Me
-- 🎓 Major: Computer Science  
-- 🏫 Faculty: Computers & Artificial Intelligence  
-- 💻 Frontend Track: Completed (SEF Academy)  
-- 🚀 Currently Learning: Backend Development & becoming a Full Stack Developer  
-- 🎯 Focus: Competitive Programming, Problem Solving & Full Stack Development  
-- 💡 Interests: Artificial Intelligence, Algorithms & Building Web Applications  
+- 🎓 Major: Computer Science
+- 🏫 Faculty: Computers & Artificial Intelligence
+- 💻 Frontend Track: Completed (SEF Academy)
+- 🌱 Currently Learning: Node.js, Express.js & Backend Development
+- 🚀 Goal: Becoming a Full Stack Developer
+- 🎯 Focus: Competitive Programming, Problem Solving & Full Stack Development
+- 💡 Interests: Artificial Intelligence, Algorithms & Building Web Applications
 
 <hr>
 
