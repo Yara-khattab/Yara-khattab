@@ -69,9 +69,10 @@
 <hr>
 
 ## 📈 GitHub Analytic
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yara-khattab&theme=github-dark-blue" />
-</p>
+<p align="center"> 
+ <a href="https://git.io/streak-stats"> 
+  <img src="https://streak-stats.demolab.com?user=yara-khattab&theme=github-dark-blue"/> 
+ </a></p>
  
 <hr>
 
