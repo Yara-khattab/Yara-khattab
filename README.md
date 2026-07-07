@@ -70,7 +70,7 @@
 
 ## 📈 GitHub Analytic
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yara-khattab&theme=github-dark-blue&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=yara-khattab&theme=github-dark-blue" />
 </p>
  
 <hr>
