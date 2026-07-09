@@ -69,11 +69,11 @@
 <hr>
 
 ## 📈 GitHub Analytic
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yara-khattab&theme=github-dark-blue)](https://git.io/streak-stats)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yara-khattab&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
 
-</div>
 <hr>
 
 ## 🎯 Quick Peek   
